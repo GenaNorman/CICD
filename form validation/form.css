@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  overflow: none;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+input[type="submit"] {
+  text-align: center;
+  margin: 15px auto;
+  width: 90%;
+  padding: 11px;
+  border-radius: 25px;
+  font-size: 20px;
+  color: white;
+  background-color: rgb(78, 161, 255);
+  border: 1px solid rgba(224, 126, 15, 0.808);
+}
+header {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-image: url(./pexels-daniel-adesina-833052.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+div.login {
+  height: max-content;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  right: 157px;
+  top: 50px;
+  background-color: rgba(224, 126, 15, 0.808);
+  padding: 12px;
+}
+input [] {
+  padding: 13px;
+  width: 300px;
+  margin: 5px;
+}
+h1 {
+  text-align: center;
+  margin: 10px auto;
+  color: white;
+}
+.about {
+  width: 40%;
+  background-color: rgba(255, 191, 96, 0.466);
+  height: max-content;
+  margin-right: -300px;
+}
+p {
+  color: white;
+  text-align: center;
+}

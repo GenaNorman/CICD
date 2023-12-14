@@ -1,0 +1,14 @@
+body {
+  background-image: url(./pexels-daniel-adesina-833052.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1 {
+  justify-content: center;
+  text-align: center;
+  color: indigo;
+  font-family: cursive;
+  font-size: 80px;
+  font-weight: 900;
+  text-decoration: underline;
+}
